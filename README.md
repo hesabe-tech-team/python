@@ -43,7 +43,7 @@ open terminal use cd command change directory to hesabe directory.
 
 Before running hesabe package make sure you have properly comfirgure Merchant details 
 
-after configuration user below command to run python package.
+after configuration use below command to run python package.
 
 python checkout.py
 
